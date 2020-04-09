@@ -4,8 +4,7 @@ import time
 import copy
 import random
 
-level = "Medium"
-
+level = "Insane"
 """ [Level of Difficulty] = Input the level of difficulty of the sudoku puzzle. Difficulty levels
         include ‘Easy’ ‘Medium’ ‘Hard’ and ‘Insane’. Outputs a sudoku of desired
         difficulty."""
